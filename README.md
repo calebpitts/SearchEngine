@@ -1,5 +1,5 @@
 # SearchEngine
-Search engine using index of crawled uci websites
+Terminal search engine built on index of crawled UCI websites
 
 **Authors**
 - Caleb Pitts
